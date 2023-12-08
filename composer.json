@@ -26,5 +26,10 @@
         "psr-4": {
             "Acme\\AcmeBundle\\Tests\\": "tests/"
         }
+    },
+    "scripts": {
+        "post-create-project-cmd": [
+            "echo \"\n\n<info>Bundle skeleton created successfully!</info>\""
+        ]
     }
 }
