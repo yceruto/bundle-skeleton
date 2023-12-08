@@ -2,11 +2,12 @@
     "name": "yceruto/bundle-skeleton",
     "type": "library",
     "license": "MIT",
-    "description": "A minimal Symfony bundle recommended to create new bundles",
+    "description": "A minimal Symfony bundle template recommended to create new bundles",
     "minimum-stability": "stable",
     "require": {
         "php": ">=8.2",
-        "symfony/framework-bundle": "^7"
+        "yceruto/bundle-flex": "^0.1",
+        "symfony/framework-bundle": "^6.4|^7.0"
     },
     "require-dev": {
     },

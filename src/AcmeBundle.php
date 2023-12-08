@@ -7,6 +7,9 @@ use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Loader\Configurator\ContainerConfigurator;
 use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
 
+/**
+ * @link https://symfony.com/doc/current/bundles/best_practices.html
+ */
 class AcmeBundle extends AbstractBundle
 {
     public function configure(DefinitionConfigurator $definition): void
