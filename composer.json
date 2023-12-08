@@ -5,8 +5,8 @@
     "description": "A minimal Symfony bundle template recommended to create new bundles",
     "minimum-stability": "stable",
     "require": {
-        "php": ">=8.2",
-        "yceruto/bundle-flex": "^0.0.2",
+        "php": ">=8.1",
+        "yceruto/bundle-flex": "^0.1",
         "symfony/framework-bundle": "^6.4|^7.0"
     },
     "require-dev": {
