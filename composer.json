@@ -29,7 +29,7 @@
     },
     "scripts": {
         "post-create-project-cmd": [
-            "echo \"\n\n<info>Bundle skeleton created successfully!</info>\""
+            "composer remove yceruto/bundle-flex"
         ]
     }
 }
