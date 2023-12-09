@@ -6,7 +6,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=8.1",
-        "yceruto/bundle-flex": "^0.1",
+        "yceruto/bundle-flex": "^0.1.18",
         "symfony/framework-bundle": "^6.4|^7.0"
     },
     "require-dev": {
