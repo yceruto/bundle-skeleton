@@ -2,7 +2,7 @@
     "name": "yceruto/bundle-skeleton",
     "type": "library",
     "license": "MIT",
-    "description": "A minimal Symfony bundle template recommended to create new bundles",
+    "description": "A minimal Symfony bundle skeleton recommended to create new bundles",
     "minimum-stability": "stable",
     "require": {
         "php": ">=8.1",
@@ -15,16 +15,6 @@
         "sort-packages": true,
         "allow-plugins": {
             "yceruto/bundle-flex": true
-        }
-    },
-    "autoload": {
-        "psr-4": {
-            "Acme\\AcmeBundle\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Acme\\AcmeBundle\\Tests\\": "tests/"
         }
     }
 }
