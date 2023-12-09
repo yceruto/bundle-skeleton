@@ -1,5 +1,7 @@
 # Symfony Bundle Skeleton
 
+A minimal Symfony bundle recommended to create new bundles.
+
 ## Installation
 
 ```bash
