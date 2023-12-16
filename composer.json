@@ -1,6 +1,6 @@
 {
     "name": "yceruto/bundle-skeleton",
-    "type": "library",
+    "type": "symfony-bundle",
     "license": "MIT",
     "description": "A minimal Symfony bundle skeleton recommended to create new bundles",
     "minimum-stability": "stable",
