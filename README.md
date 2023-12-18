@@ -1,7 +1,7 @@
 # Symfony Bundle Skeleton
 
-A minimal Symfony bundle recommended to create new bundles. It includes [an assistant](https://github.com/yceruto/bundle-flex) 
-to help you create the basic structure of the new bundle following the [Symfony Best Practices](https://symfony.com/doc/current/best_practices.html).
+A streamlined Symfony bundle, highly recommended for developing new bundles, is equipped with [an assistant](https://github.com/yceruto/bundle-flex). This assistant 
+will help you configure the bundle according to your needs, while adhering to [Symfony Best Practices](https://symfony.com/doc/current/best_practices.html).
 
 ## Installation
 
@@ -9,8 +9,8 @@ to help you create the basic structure of the new bundle following the [Symfony 
 composer create-project yceruto/bundle-skeleton <your-bundle-name>
 ```
 
-During the bundle installation, you will be asked for some information regarding the features you want to enable, and the
-assistant will do the rest.
+During the bundle installation process, you will be prompted to provide details about the features you wish to activate. 
+Once this information is submitted, the assistant will handle the remaining setup for you.
 
 ## License
 
