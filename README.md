@@ -1,7 +1,7 @@
 # Symfony Bundle Skeleton
 
-A streamlined Symfony bundle, highly recommended for creating new bundles, is equipped with [an assistant](https://github.com/yceruto/bundle-flex). This assistant 
-will help you configure the bundle according to your needs, while adhering to [Symfony Best Practices](https://symfony.com/doc/current/best_practices.html).
+A streamlined Symfony bundle, highly recommended for creating new bundles, is equipped with [an assistant](https://github.com/yceruto/bundle-flex), 
+which will help you configure the bundle according to your needs, while adhering to [Symfony Best Practices](https://symfony.com/doc/current/best_practices.html).
 
 ## Installation
 
