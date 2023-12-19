@@ -12,6 +12,8 @@ composer create-project yceruto/bundle-skeleton <your-bundle-name>
 During the bundle installation process, you will be prompted to provide details about the features you wish to activate. 
 Once this information is submitted, the assistant will handle the remaining setup for you.
 
+Visit https://github.com/yceruto/bundle-flex for more details.
+
 ## License
 
 This software is published under the [MIT License](LICENSE)
